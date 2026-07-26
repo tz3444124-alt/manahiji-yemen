@@ -1,0 +1,6 @@
+{
+  "name": "مناهجي - اليمن",
+  "description": "تطبيق رقمنة المنهج الدراسي للطلاب في اليمن، إدارة الكتب والملخصات، والبحث الذكي RAG وحل الاختبارات والتلاخيص بدون إنترنت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
